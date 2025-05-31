@@ -34,7 +34,7 @@ class _BerandaScreenState extends State<BerandaScreen> {
       appBar: AppBar(
         elevation: 2,
         title: const Text(
-          'WhPutriSH',
+          'WhIndira',
           style: TextStyle(
             fontSize: 24,
             fontWeight: FontWeight.bold,
