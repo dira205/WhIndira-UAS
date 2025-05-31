@@ -114,7 +114,7 @@ class _PesanScreenState extends State<PesanScreen> {
                       if (!isDosen)
                         const CircleAvatar(
                           backgroundImage: AssetImage(
-                              'assets/gambar_dosen/putristephani.jpeg'),
+                              'assets/gambar_dosen/Indira Meidiyanti.jpeg'),
                           radius: 14,
                         ),
                     ],
